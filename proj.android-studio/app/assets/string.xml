@@ -1,0 +1,18 @@
+﻿<dict>
+	<key>title</key>
+	<string>一个都不能死</string>
+	<key>btnTwo</key>
+	<string>两个人</string>
+	<key>btnThree</key>
+	<string>三个人</string>
+	<key>btnFour</key>
+	<string>四个人</string>
+	<key>btnFive</key>
+	<string>五个人</string>
+	<key>gameOver</key>
+	<string>游戏结束</string>
+	<key>btnReplay</key>
+	<string>再来一次</string>
+	<key>btnBackHome</key>
+	<string>返回主页</string>
+</dict>
